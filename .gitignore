@@ -12,8 +12,10 @@ venv/
 .vscode/
 
 # Data and Reports
-Data/
-Output/
+Data/*
+!Data/.gitkeep
+Output/*
+!Output/.gitkeep
 report-related/
 *.pdf
 
