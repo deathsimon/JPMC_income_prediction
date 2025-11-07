@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+.venv/
+
+# IDEs
+.vscode/
+
+# Data and Reports
+Data/
+Output/
+report-related/
+*.pdf
+
+# Operating System
+.DS_Store
+Thumbs.db
